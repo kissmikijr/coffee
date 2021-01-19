@@ -1,0 +1,22 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "Coffee timer",
+  "scripts": {
+    "start": "bin\\windows\\coffee.exe brew"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kissmikijr/coffee.git"
+  },
+  "keywords": [
+    "coffee",
+    "frenchpress"
+  ],
+  "author": "kissmikijr",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/kissmikijr/coffee/issues"
+  },
+  "homepage": "https://github.com/kissmikijr/coffee#readme"
+}
